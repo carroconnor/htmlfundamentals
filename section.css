@@ -1,0 +1,14 @@
+
+.greenBox{
+	background-color: green;
+	width: 70%;
+}
+.redBox{
+	background-color: red;
+	width: 70%;
+	float: left;
+}
+.yellowBox{
+	background-color: yellow;
+	overflow: hidden;
+}
